@@ -1,7 +1,5 @@
-# 🔢 Decimal Calculator (Java)
-
-A simple dual-mode calculator built using **Java Swing**, supporting both **basic decimal operations** and **advanced scientific functions**. Designed and tested using **VS Code**.
-
+📟 Decimal Calculator - Java Swing
+A simple Decimal Calculator built with Java Swing GUI. It performs basic arithmetic operations: addition, subtraction, multiplication, and division—supporting both integers and decimals.
 ---
 
 ## 🎯 Features
@@ -10,19 +8,12 @@ A simple dual-mode calculator built using **Java Swing**, supporting both **basi
 - Addition, Subtraction, Multiplication, Division
 - Modulus, Square root, Percentage
 
-### 🔬 Scientific Mode
-- sin, cos, tan, log, ln
-- π, e, x^y, √
-- Memory functions (MC, MR, M+, M-)
-
 ---
 
 ## 📂 Folder Structure
 calculator-in-java/
 ├── DecimalCalculator/
 │ └── DecimalCalculator.java # Basic arithmetic logic and UI
-├── ScientificCalculator/
-│ └── ScientificCalculator.java # Scientific functions logic and UI
 ├── README.md
 └── LICENSE
 
@@ -30,16 +21,16 @@ calculator-in-java/
 
 ---
 
-## 📸 Screenshot
+## 🖥️ Preview  📸 Screenshot
 
 ![Decimal Calculator](https://github.com/user-attachments/assets/4c3b0053-1d6c-4d8d-88ee-86c9468b2cf9)
-![ScientificCalculator](https://github.com/user-attachments/assets/129a1cde-bef6-4cc8-8ea7-e75da952eb04)
 
 ---
 
 ## 💻 Technologies Used
 - Java
 - Java Swing (GUI)
+- AWT (java.awt)
 - VS Code
 
 ---
@@ -48,8 +39,7 @@ calculator-in-java/
 
 1. Open the **`calculator-in-java/`** folder in **VS Code**
 2. Go to:
-   - `DecimalCalculator/DecimalCalculator.java` **or**
-   - `ScientificCalculator/ScientificCalculator.java`
+   - `DecimalCalculator/DecimalCalculator.java`
 3. Make sure you have the **Java Extension Pack** installed
 4. Right-click the file → Click **"Run Java"**
 
