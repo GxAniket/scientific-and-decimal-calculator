@@ -1,4 +1,4 @@
-# 🔢 Scientific and Decimal Calculator (Java)
+# 🔢 Decimal Calculator (Java)
 
 A simple dual-mode calculator built using **Java Swing**, supporting both **basic decimal operations** and **advanced scientific functions**. Designed and tested using **VS Code**.
 
